@@ -12,24 +12,44 @@
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 💬 **A Message From Me**
+
+> _Hey there! 👋 Welcome to my GitHub!_
+>
+> _I'm Soham — a Data Science student who's obsessed with building AI that actually works in the real world. I don't just learn; I build, deploy, and ship._
+>
+> _Every project you see here has a **live demo** because I believe in showing, not just telling. Whether it's judging hackathon projects with AI, predicting stock markets, or detecting fake news — I turn complex problems into elegant solutions._
+>
+> _Feel free to explore my repos, try the demos, and reach out if you want to collaborate. Let's build something amazing together! 🚀_
+>
+> — **Soham**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **About Me**
 
 ```yaml
 name: Soham Barate
-located_in: India
-current_focus: AI/ML & Data Science
-education: Data Science Student
+located_in: India 🇮🇳
+current_role: Data Science Student & AI Developer
+experience: 10+ Production-Ready Projects (All with Live Demos!)
 
 achievements:
-  - 🏆 Smart India Hackathon (SIH) Winner
-  - 🚀 10+ Production-Ready AI Projects
-  - 🌐 All Projects Deployed with Live Demos
+  - 🏆 Smart India Hackathon (SIH) Winner - MaternitySafe Project
+  - 🚀 Built & Deployed 10+ AI/ML Applications
+  - 📊 Expertise in NLP, Deep Learning, Time Series & RL
+  - 🌐 Full-Stack ML: From Model to Deployment
 
-interests: ["Deep Learning", "NLP", "Reinforcement Learning", "MLOps"]
+currently_working_on:
+  - AI-powered Hackathon Judging System
+  - Stock Market Analysis Platform
+  - Crisis Forecasting with Multi-Domain Data
 
-currently_learning: ["LLMs", "Transformers", "Big Data (Spark/Hadoop)"]
+learning_next: ["LLMs & Transformers", "MLOps", "Big Data (Spark/Hadoop)"]
 
-fun_fact: "I build AI apps faster than I drink coffee ☕"
+philosophy: "Code is poetry, AI is magic, and data tells the truth"
+
+fun_fact: "I deploy projects faster than most people commit them 😄"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -46,11 +66,24 @@ fun_fact: "I build AI apps faster than I drink coffee ☕"
   <img src="https://img.shields.io/badge/📈_Stock_Analyzer-Live_Demo-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=7c3aed" />
 </a>
 
-<br><br>
-
-> 💡 _Check my repositories for 8+ more live projects including Crisis Forecasting, Fake News Detection, Deep RL Portfolio & more!_
-
 </div>
+
+<br>
+
+### 🗂️ **All My Projects (10+ with Live Demos!)**
+
+| Project                    | Description                                       | Tech Stack              | Demo                                                         |
+| -------------------------- | ------------------------------------------------- | ----------------------- | ------------------------------------------------------------ |
+| 🎯 **AI Hackathon Judge**  | Automated hackathon project evaluation using NLP  | Python, NLP, Streamlit  | [Live](https://ai-judge-for-hackathons.streamlit.app)        |
+| 📈 **Stock Analyzer**      | AI-powered Indian stock market analysis           | Python, ML, FastAPI     | [Live](https://stock-analyse.streamlit.app)                  |
+| 🌍 **Crisis Forecasting**  | Multi-domain global crisis prediction system      | LSTM, XGBoost, Ensemble | [Live](https://ai-crisis-forecasting.streamlit.app)          |
+| 🔍 **Fake News Detector**  | NLP-based misinformation & manipulation detection | BERT, NetworkX, NLP     | [Live](https://fake-news-detector-sohambarate.streamlit.app) |
+| 🔬 **Data Autopsy**        | Forensic dataset analysis toolkit                 | Statistics, Pandas      | [Live](https://data-autopsy-system.streamlit.app)            |
+| 📄 **Resume Scanner**      | AI resume analysis with ATS scoring               | spaCy, NLP, ML          | [Live](https://resume-scanner-sohambarate.streamlit.app)     |
+| ₿ **Crypto AI Platform**   | Cryptocurrency intelligence & predictions         | Deep Learning, APIs     | [Live](https://crypto-ai-platform.streamlit.app)             |
+| 🚦 **Smart City Traffic**  | Traffic congestion prediction & optimization      | ML, Optimization        | [Live](https://smart-city-traffic-sohambarate.streamlit.app) |
+| 🤖 **Deep RL Portfolio**   | Reinforcement learning for portfolio optimization | DQN, Gym, TensorFlow    | [Live](https://deep-rl-portfolio.streamlit.app)              |
+| 🏆 **MaternitySafe (SIH)** | SIH Winning maternal health monitoring system     | Full-Stack, ML          | Private                                                      |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -58,20 +91,40 @@ fun_fact: "I build AI apps faster than I drink coffee ☕"
 
 <div align="center">
 
+### 🤖 AI/ML & Data Science
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🌐 Web & Deployment
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠️ Tools & Languages
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
@@ -88,9 +141,18 @@ fun_fact: "I build AI apps faster than I drink coffee ☕"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goddex-123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
 </div>
 
+<br>
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Goddex-123&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Connect!**
 
 <div align="center">
 
@@ -99,9 +161,17 @@ fun_fact: "I build AI apps faster than I drink coffee ☕"
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/goddex0186)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohambarate16@gmail.com)
 
-</div>
+<br>
+
+### 💡 _"The best way to predict the future is to build it with AI"_
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=Goddex-123&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+**⭐ If you like my work, consider giving a star to my repositories!**
+
+</div>
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
