@@ -5,7 +5,7 @@
 
 <!-- Animated Text -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;SIH+Winner+%7C+10%2B+Production+Projects;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C;SIH+Winner+%7C+10%2B+Production+Projects;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" /></a>
 
 </div>
 
