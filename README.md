@@ -68,23 +68,6 @@ fun_fact: "I deploy projects faster than most people commit them 😄"
 
 </div>
 
-<br>
-
-### 🗂️ **All My Projects (10+ with Live Demos!)**
-
-| Project                    | Description                                       | Tech Stack              | Demo                                                         |
-| -------------------------- | ------------------------------------------------- | ----------------------- | ------------------------------------------------------------ |
-| 🎯 **AI Hackathon Judge**  | Automated hackathon project evaluation using NLP  | Python, NLP, Streamlit  | [Live](https://ai-judge-for-hackathons.streamlit.app)        |
-| 📈 **Stock Analyzer**      | AI-powered Indian stock market analysis           | Python, ML, FastAPI     | [Live](https://stock-analyse.streamlit.app)                  |
-| 🌍 **Crisis Forecasting**  | Multi-domain global crisis prediction system      | LSTM, XGBoost, Ensemble | [Live](https://ai-crisis-forecasting.streamlit.app)          |
-| 🔍 **Fake News Detector**  | NLP-based misinformation & manipulation detection | BERT, NetworkX, NLP     | [Live](https://fake-news-detector-sohambarate.streamlit.app) |
-| 🔬 **Data Autopsy**        | Forensic dataset analysis toolkit                 | Statistics, Pandas      | [Live](https://data-autopsy-system.streamlit.app)            |
-| 📄 **Resume Scanner**      | AI resume analysis with ATS scoring               | spaCy, NLP, ML          | [Live](https://resume-scanner-sohambarate.streamlit.app)     |
-| ₿ **Crypto AI Platform**   | Cryptocurrency intelligence & predictions         | Deep Learning, APIs     | [Live](https://crypto-ai-platform.streamlit.app)             |
-| 🚦 **Smart City Traffic**  | Traffic congestion prediction & optimization      | ML, Optimization        | [Live](https://smart-city-traffic-sohambarate.streamlit.app) |
-| 🤖 **Deep RL Portfolio**   | Reinforcement learning for portfolio optimization | DQN, Gym, TensorFlow    | [Live](https://deep-rl-portfolio.streamlit.app)              |
-| 🏆 **MaternitySafe (SIH)** | SIH Winning maternal health monitoring system     | Full-Stack, ML          | Private                                                      |
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Arsenal**
