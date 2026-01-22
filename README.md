@@ -126,6 +126,37 @@ fun_fact: "I deploy projects faster than most people commit them 😄"
 
 <br>
 
+<!-- Activity Graph -->
+<div align="center">
+  
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goddex-123&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+<!-- Profile Summary Cards -->
+<div align="center">
+
+### 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goddex-123&theme=midnight_purple"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goddex-123&theme=midnight_purple"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goddex-123&theme=midnight_purple"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goddex-123&theme=midnight_purple"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goddex-123&theme=midnight_purple&utcOffset=5.5"/>
+</div>
+
+<br>
+
 <div align="center">
   
 ### 🏆 GitHub Trophies
