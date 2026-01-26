@@ -73,6 +73,10 @@ fun_fact: "I deploy projects faster than most people commit them 😄"
   <img src="https://img.shields.io/badge/📈_Stock_Analyzer-Live_Demo-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=7c3aed" />
 </a>
 &nbsp;&nbsp;
+<a href="https://goddex-123.github.io/Gestura_ML/">
+  <img src="https://img.shields.io/badge/🤟_Gestura_AI-Live_Demo-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=030308" />
+</a>
+&nbsp;&nbsp;
 <a href="https://goddex-123.github.io/To_Do_App/">
   <img src="https://img.shields.io/badge/⚡_TaskFlow-Live_Demo-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=030308" />
 </a>
