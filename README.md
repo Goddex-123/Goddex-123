@@ -41,25 +41,23 @@
 name: Soham Barate
 located_in: India 🇮🇳
 current_role: Data Science Student & AI Developer
-experience: 10+ Production-Ready Projects (All with Live Demos!)
+experience: 10+ Production-Ready Projects (Full-Stack AI/ML)
 
-achievements:
-  - 🏆 Smart India Hackathon (SIH) Winner - MaternitySafe Project
-  - 🚀 Built & Deployed 10+ AI/ML Applications
-  - 📊 Expertise in NLP, Deep Learning, Time Series & RL
-  - 🌐 Full-Stack ML: From Model to Deployment
+competencies:
+  - 🧠 **ML Engineering**: Feature Engineering, Model Optimization, Hyperparameter Tuning
+  - 🛠️ **System Design**: Scalable API Design, Microservices, MLOps Pipelines
+  - 📊 **Data Analytics**: Advanced Statistical Modeling, Time Series, Deep RL
+  - 🤝 **Collaboration**: SIH Winner, Open-Source Contributor, Team Leadership
 
-currently_working_on:
-  - AI-powered Hackathon Judging System
-  - Stock Market Analysis Platform
-  - Crisis Forecasting with Multi-Domain Data
-
-learning_next: ["LLMs & Transformers", "MLOps", "Big Data (Spark/Hadoop)"]
-
-philosophy: "Code is poetry, AI is magic, and data tells the truth"
-
-fun_fact: "I deploy projects faster than most people commit them 😄"
+philosophy: "Building AI that bridges the gap between research and reality."
+fun_fact: "I deploy production-ready projects faster than most people commit them 😄"
 ```
+
+## 🚀 Learning Path 2026
+
+- [ ] **Advanced LLMs**: Researching Transformer architectures and Fine-tuning strategies (LLaMA-3, Mistral).
+- [ ] **MLOps Excellence**: Mastering CI/CD for ML, Model Monitoring, and Data Versioning (DVC, MLflow).
+- [ ] **Big Data Systems**: Scaling applications with Spark, Hadoop, and high-performance computing.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
