@@ -124,7 +124,7 @@ fun_fact: "I deploy production-ready projects faster than most people commit the
 
 <!-- Stats and Streak -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goddex-123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=Goddex-123&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Goddex-123&theme=midnight-purple&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goddex-123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
 
