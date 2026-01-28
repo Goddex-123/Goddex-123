@@ -123,10 +123,12 @@ fun_fact: "I deploy production-ready projects faster than most people commit the
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> **GitHub Analytics**
 
 <!-- Stats and Streak -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goddex-123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=Goddex-123&theme=midnight-purple&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goddex-123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goddex-123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" height="180" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com/?user=Goddex-123&theme=midnight-purple&hide_border=true" height="180" alt="streak graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goddex-123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="180" alt="top languages" />
+</div>
 
 <br>
 
