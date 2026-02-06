@@ -124,10 +124,10 @@ fun_fact: "I deploy production-ready projects faster than most people commit the
 
 <!-- Stats and Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goddex-123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" height="180" alt="stats graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goddex-123&theme=tokyonight" alt="profile details" />
   <img src="https://streak-stats.demolab.com/?user=Goddex-123&theme=midnight-purple&hide_border=true" height="180" alt="streak graph" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goddex-123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="180" alt="top languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goddex-123&theme=tokyonight" alt="productive time" />
 </div>
 
 <br>
