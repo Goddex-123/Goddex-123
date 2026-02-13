@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Barate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Developer%20%7C%20Building%20the%20Future&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Barate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
 
 <!-- Animated Text -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C;SIH+Winner+%7C+10%2B+Production+Projects;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C;SIH+Winner+%7C+Full-Stack+AI+Developer;Turning+Ideas+into+Production+Code" alt="Typing SVG" /></a>
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-barate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-barate-7429181a9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sohambarate_)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/goddex0186)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohambarate16@gmail.com)
@@ -25,11 +24,11 @@
 
 > _Hey there! 👋 Welcome to my GitHub!_
 >
-> _I'm Soham — a Data Science student who's obsessed with building AI that actually works in the real world. I don't just learn; I build, deploy, and ship._
+> _I'm Soham — a Data Science student obsessed with building AI that matters. I specialize in bridging the gap between research models and production systems. I don't just train models; I containerize them, build APIs, and deploy them to the cloud._
 >
-> _Every project you see here has a **live demo** because I believe in showing, not just telling. Whether it's judging hackathon projects with AI, predicting stock markets, or detecting fake news — I turn complex problems into elegant solutions._
+> _My portfolio showcases end-to-end Machine Learning engineering: from **Crisis Forecasting** and **Recommendation Engines** to **Computer Vision** and **Large Language Models**._
 >
-> _Feel free to explore my repos, try the demos, and reach out if you want to collaborate. Let's build something amazing together! 🚀_
+> _Feel free to fork my repos, check out the architectures, and reach out for collaboration! 🚀_
 >
 > — **Soham**
 
@@ -40,44 +39,66 @@
 ```yaml
 name: Soham Barate
 located_in: India 🇮🇳
-current_role: Data Science Student & AI Developer
-experience: 10+ Production-Ready Projects (Full-Stack AI/ML)
+current_role: AI/ML Engineer
+focus: MLOps, NLP, Computer Vision
+experience: 12+ Production-Grade Projects
 
 competencies:
-  - 🧠 **ML Engineering**: Feature Engineering, Model Optimization, Hyperparameter Tuning
-  - 🛠️ **System Design**: Scalable API Design, Microservices, MLOps Pipelines
-  - 📊 **Data Analytics**: Advanced Statistical Modeling, Time Series, Deep RL
-  - 🤝 **Collaboration**: SIH Winner, Open-Source Contributor, Team Leadership
+  - 🧠 **ML Engineering**: Scikit-learn, TensorFlow, PyTorch, XGBoost
+  - 🛠️ **MLOps**: Docker, GitHub Actions CI/CD, Makefiles, Pytest
+  - 📊 **Data**: Pandas, NumPy, Plotly, Streamlit
+  - 🌐 **Full-Stack**: FastAPI, React, Next.js, MongoDB
 
-philosophy: "Building AI that bridges the gap between research and reality."
-fun_fact: "I deploy production-ready projects faster than most people commit them 😄"
+philosophy: "Code that works on my machine should work on yours too. Hence, Docker."
+fun_fact: "I've automated my own coffee reminders."
 ```
-
-## 🚀 Learning Path 2026
-
-- [ ] **Advanced LLMs**: Researching Transformer architectures and Fine-tuning strategies (LLaMA-3, Mistral).
-- [ ] **MLOps Excellence**: Mastering CI/CD for ML, Model Monitoring, and Data Versioning (DVC, MLflow).
-- [ ] **Big Data Systems**: Scaling applications with Spark, Hadoop, and high-performance computing.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Featured Projects**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Flagship Projects**
 
-<a href="https://ai-judge-for-hackathons.streamlit.app">
-  <img src="https://img.shields.io/badge/🎯_AI_Hackathon_Judge-Live_Demo-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=7c3aed" />
+<div align="center">
+
+| **AI Crisis Forecasting** | **RecSys Engine** |
+|:---:|:---:|
+| <a href="https://github.com/Goddex-123/Ai-crisis-forecasting"><img src="https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge&logo=github" /></a> | <a href="https://github.com/Goddex-123/recommendation-system"><img src="https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge&logo=github" /></a> |
+| 🌍 Global conflict & disaster prediction system using LSTM/XGBoost. | 🛍️ Hybrid recommendation system (Content + Collaborative filtering). |
+| `Time-Series` `Forecasting` `Docker` | `Recommender` `NLP` `Production-Ready` |
+
+<br>
+
+| **Resume Scanner ATS** | **Data Autopsy System** |
+|:---:|:---:|
+| <a href="https://github.com/Goddex-123/Resume_Scanner"><img src="https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge&logo=github" /></a> | <a href="https://github.com/Goddex-123/Data-Autopsy-System"><img src="https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge&logo=github" /></a> |
+| 📄 NLP-powered resume parser and job description matcher with ATS scoring. | 🏥 Automated EDA and data quality profiling tool for rapid analysis. |
+| `NLP` `Spacy` `Streamlit` | `EDA` `Automated-Reporting` `Pandas` |
+
+<br>
+
+| **Smart City Traffic** | **Log Analyzer X** |
+|:---:|:---:|
+| <a href="https://github.com/Goddex-123/Smart-city-traffic"><img src="https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge&logo=github" /></a> | <a href="https://github.com/Goddex-123/log_analyzer_x"><img src="https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge&logo=github" /></a> |
+| 🚦 AI-driven traffic optimization and density prediction. | 📊 Server log anomaly detection and visualization dashboard. |
+| `Optimization` `Computer-Vision` | `Anomaly-Detection` `DevOps` |
+
+</div>
+
+<br>
+<div align="center">
+
+<a href="https://github.com/Goddex-123/Ai_Judge_for_Hackathon">
+  <img src="https://img.shields.io/badge/⚖️_AI_Hackathon_Judge-NLP_Metric_System-7c3aed?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://stock-analyse.streamlit.app">
-  <img src="https://img.shields.io/badge/📈_Stock_Analyzer-Live_Demo-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=7c3aed" />
+<a href="https://github.com/Goddex-123/Gestura_ML">
+  <img src="https://img.shields.io/badge/🤟_Gestura_ML-Touchless_Control-00FF88?style=for-the-badge&logo=opencv&logoColor=white&labelColor=030308" />
 </a>
 &nbsp;&nbsp;
-<a href="https://goddex-123.github.io/Gestura_ML/">
-  <img src="https://img.shields.io/badge/🤟_Gestura_AI-Live_Demo-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=030308" />
+<a href="https://github.com/Goddex-123/To_Do_App">
+  <img src="https://img.shields.io/badge/⚡_TaskFlow-JARVIS_Theme-00FF88?style=for-the-badge&logo=react&logoColor=white&labelColor=030308" />
 </a>
-&nbsp;&nbsp;
-<a href="https://goddex-123.github.io/To_Do_App/">
-  <img src="https://img.shields.io/badge/⚡_TaskFlow-Live_Demo-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=030308" />
-</a>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -97,32 +118,15 @@ fun_fact: "I deploy production-ready projects faster than most people commit the
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🗄️ Databases & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🛠️ Tools & Languages
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> **GitHub Analytics**
 
-<!-- Stats and Streak -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Goddex-123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="stats graph" />
   <img src="https://streak-stats.demolab.com/?user=Goddex-123&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
@@ -132,22 +136,14 @@ fun_fact: "I deploy production-ready projects faster than most people commit the
 
 <br>
 
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Goddex-123&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Goddex-123&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💡 _"The best way to predict the future is to build it with AI"_
-
-![](https://komarev.com/ghpvc/?username=Goddex-123&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-**⭐ If you like my work, consider giving a star to my repositories!**
-
----
-
 <p align="center">
-  <i>Portfolio Optimization Status: **Interview Ready** | Last Refined: Jan 26, 2026 at 18:25 IST</i>
+  <i>Portfolio Optimization Status: **Production Grade** | Last Refined: Feb 2026</i>
 </p>
 
 <!-- Animated Footer -->
