@@ -20,7 +20,7 @@ def make_info_card(output_path):
     
     # SVG configuration
     width = 490
-    height = 300
+    height = 210
     font_family = "monospace"
     font_size = 14
     line_height = 24

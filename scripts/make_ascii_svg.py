@@ -3,7 +3,7 @@ import numpy as np
 
 RAMP = " .`:-=+*cs#%@" 
 
-def make_ascii_svg(input_path, output_path, width=100, char_aspect_ratio=0.5):
+def make_ascii_svg(input_path, output_path, width=70, char_aspect_ratio=0.5):
     # Read the prepped grayscale image
     img = cv2.imread(input_path, cv2.IMREAD_GRAYSCALE)
     if img is None:

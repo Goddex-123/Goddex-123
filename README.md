@@ -1,19 +1,17 @@
 <div align="center">
 
-<h3><code>soham@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<b><code>soham@github ~ $ ./contributions.sh</code></b><br>
+<img src="./contrib-heatmap.svg" width="700" />
 
-<br><br>
-
-<h3><code>soham@github ~ $ whoami</code></h3>
+<b><code>soham@github ~ $ whoami</code></b>
 <table>
   <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+    <td valign="top"><img src="./avi-ascii.svg" width="280" /></td>
+    <td valign="top"><img src="./info-card.svg" width="380" /></td>
   </tr>
 </table>
 
-<br>
+
 
 <a href="https://linkedin.com/in/soham-barate-7429181a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/sohambarate_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
