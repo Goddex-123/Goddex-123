@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" width="490" height="300">
+  <style>
+    text { font-family: monospace; font-size: 14px; fill: #a8b2bd; }
+    .title { fill: #a855f7; font-weight: bold; }
+    .key { fill: #3b82f6; font-weight: bold; }
+    .separator { fill: #a8b2bd; }
+    .line-0 { opacity: 0; animation: fadeInSlide 0.4s ease-out 0.0s forwards; }
+    .line-1 { opacity: 0; animation: fadeInSlide 0.4s ease-out 0.2s forwards; }
+    .line-2 { opacity: 0; animation: fadeInSlide 0.4s ease-out 0.4s forwards; }
+    .line-3 { opacity: 0; animation: fadeInSlide 0.4s ease-out 0.6000000000000001s forwards; }
+    .line-4 { opacity: 0; animation: fadeInSlide 0.4s ease-out 0.8s forwards; }
+    .line-5 { opacity: 0; animation: fadeInSlide 0.4s ease-out 1.0s forwards; }
+    .line-6 { opacity: 0; animation: fadeInSlide 0.4s ease-out 1.2000000000000002s forwards; }
+    @keyframes fadeInSlide {
+      from { opacity: 0; transform: translateX(-10px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+  <g transform="translate(20, 40)">
+    <text x="0" y="0" class="title line-0">soham@github<tspan class="separator">@</tspan>AI-ML-Engineer</text>
+    <text x="0" y="24" class="line-1">---------------------------</text>
+    <text x="0" y="48" class="line-2">
+      <tspan class="key">Now       </tspan>
+      <tspan class="separator">:</tspan> Bridging research models to production
+    </text>
+    <text x="0" y="72" class="line-3">
+      <tspan class="key">Focus     </tspan>
+      <tspan class="separator">:</tspan> MLOps, NLP, Computer Vision
+    </text>
+    <text x="0" y="96" class="line-4">
+      <tspan class="key">Stack     </tspan>
+      <tspan class="separator">:</tspan> Python, TensorFlow, PyTorch, Docker, FastAPI
+    </text>
+    <text x="0" y="120" class="line-5">
+      <tspan class="key">Highlight </tspan>
+      <tspan class="separator">:</tspan> SIH Winner & 12+ Production-Grade Projects
+    </text>
+    <text x="0" y="144" class="line-6">
+      <tspan class="key">Contact   </tspan>
+      <tspan class="separator">:</tspan> sohambarate16@gmail.com
+    </text>
+  </g>
+</svg>

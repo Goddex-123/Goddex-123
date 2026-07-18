@@ -1,57 +1,26 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Barate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
+<h3><code>soham@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
-<!-- Animated Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C;SIH+Winner+%7C+Full-Stack+AI+Developer;Turning+Ideas+into+Production+Code" alt="Typing SVG" /></a>
+<br><br>
+
+<h3><code>soham@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://linkedin.com/in/soham-barate-7429181a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/sohambarate_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.gg/goddex0186"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:sohambarate16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-barate-7429181a9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sohambarate_)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/goddex0186)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohambarate16@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💬 **A Message From Me**
-
-> _Hey there! 👋 Welcome to my GitHub!_
->
-> _I'm Soham — a Data Science student obsessed with building AI that matters. I specialize in bridging the gap between research models and production systems. I don't just train models; I containerize them, build APIs, and deploy them to the cloud._
->
-> _My portfolio showcases end-to-end Machine Learning engineering: from **Crisis Forecasting** and **Recommendation Engines** to **Computer Vision** and **Large Language Models**._
->
-> _Feel free to fork my repos, check out the architectures, and reach out for collaboration! 🚀_
->
-> — **Soham**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **About Me**
-
-```yaml
-name: Soham Barate
-located_in: India 🇮🇳
-current_role: AI/ML Engineer
-focus: MLOps, NLP, Computer Vision
-experience: 12+ Production-Grade Projects
-
-competencies:
-  - 🧠 **ML Engineering**: Scikit-learn, TensorFlow, PyTorch, XGBoost
-  - 🛠️ **MLOps**: Docker, GitHub Actions CI/CD, Makefiles, Pytest
-  - 📊 **Data**: Pandas, NumPy, Plotly, Streamlit
-  - 🌐 **Full-Stack**: FastAPI, React, Next.js, MongoDB
-
-philosophy: "Code that works on my machine should work on yours too. Hence, Docker."
-fun_fact: "I've automated my own coffee reminders."
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
