@@ -372,9 +372,10 @@
     <rect class="day" x="714" y="56" width="11" height="11" fill="#161b22" style="animation-delay: 0.825s" />
     <rect class="day" x="714" y="70" width="11" height="11" fill="#161b22" style="animation-delay: 0.84s" />
     <rect class="day" x="714" y="84" width="11" height="11" fill="#161b22" style="animation-delay: 0.855s" />
-    <rect class="day" x="728" y="0" width="11" height="11" fill="#161b22" style="animation-delay: 0.78s" />
+    <rect class="day" x="728" y="0" width="11" height="11" fill="#0e4429" style="animation-delay: 0.78s" />
+    <rect class="day" x="728" y="14" width="11" height="11" fill="#161b22" style="animation-delay: 0.7949999999999999s" />
   </g>
-  <text class="text-muted" x="59.0" y="173">3,947
+  <text class="text-muted" x="59.0" y="173">3,881
       contributions
         in the last year</text>
   <text class="text-muted" x="632.0" y="173">Less</text>
