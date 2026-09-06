@@ -1,34 +1,6 @@
 {
   "days": [
     {
-      "date": "2025-08-31",
-      "level": 1
-    },
-    {
-      "date": "2025-09-01",
-      "level": 1
-    },
-    {
-      "date": "2025-09-02",
-      "level": 1
-    },
-    {
-      "date": "2025-09-03",
-      "level": 1
-    },
-    {
-      "date": "2025-09-04",
-      "level": 1
-    },
-    {
-      "date": "2025-09-05",
-      "level": 1
-    },
-    {
-      "date": "2025-09-06",
-      "level": 1
-    },
-    {
       "date": "2025-09-07",
       "level": 1
     },
@@ -1482,8 +1454,12 @@
     },
     {
       "date": "2026-09-05",
+      "level": 1
+    },
+    {
+      "date": "2026-09-06",
       "level": 0
     }
   ],
-  "total_text": "3,490\n      contributions\n        in the last year"
+  "total_text": "3,491\n      contributions\n        in the last year"
 }
