@@ -1458,8 +1458,12 @@
     },
     {
       "date": "2026-09-06",
+      "level": 1
+    },
+    {
+      "date": "2026-09-07",
       "level": 0
     }
   ],
-  "total_text": "3,491\n      contributions\n        in the last year"
+  "total_text": "3,426\n      contributions\n        in the last year"
 }
